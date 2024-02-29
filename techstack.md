@@ -3,45 +3,45 @@
 ## Tech Stack
 todaypp/example-prisma is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [MongoDB](http://www.mongodb.com/) – Databases
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Koa](http://koajs.com/) – Microframeworks (Backend)
-- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [Docker Compose](https://github.com/docker/compose) – Container Tools
-- [ESLint](http://eslint.org/) – Code Review
-- [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- [GraphQL](http://graphql.org/) – Query Languages
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) – Serverless / Task Processing
-- [Serverless](https://github.com/serverless/serverless) – Serverless / Task Processing
-- [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [Svelte](https://svelte.technology/) – Javascript UI Libraries
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [Prettier](https://prettier.io/) – Code Review
-- [CockroachDB](https://www.cockroachlabs.com/) – Databases
-- [Nuxt.js](https://nuxtjs.org) – Front-End Frameworks
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Fastify](http://www.fastify.io/) – Microframeworks (Backend)
-- [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- [Koa](http://koajs.com/) – Microframeworks (Backend)
 - [NestJS](nestjs.com) – Frameworks (Full Stack)
+- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Nuxt.js](https://nuxtjs.org) – Front-End Frameworks
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- [Svelte](https://svelte.technology/) – Javascript UI Libraries
+- [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
+- [CockroachDB](https://www.cockroachlabs.com/) – Databases
+- [GraphQL](http://graphql.org/) – Query Languages
+- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
+- [MongoDB](http://www.mongodb.com/) – Databases
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
+- [Supabase](https://supabase.com/) – Realtime Backend / API
 - [graphql-yoga](https://github.com/prisma/graphql-yoga) – GraphQL Tools
 - [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Supabase](https://supabase.com/) – Realtime Backend / API
-- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Docker Compose](https://github.com/docker/compose) – Container Tools
+- [ESLint](http://eslint.org/) – Code Review
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Prettier](https://prettier.io/) – Code Review
+- [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
+- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [nodemon](http://nodemon.io/) – node.js Application Monitoring
+- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) – Serverless / Task Processing
+- [Serverless](https://github.com/serverless/serverless) – Serverless / Task Processing
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -51,45 +51,45 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 todaypp/example-prisma is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1726/5055057.png' alt='Koa'/> [Koa](http://koajs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png' alt='gRPC'/> [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
-- <img width='25' height='25' src='https://img.stackshare.io/service/4851/default_1c86e0d45d685cb73aa9a39a658159f6199de49d.png' alt='Azure Functions'/> [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) – Serverless / Task Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/5095/serverless-logo.png' alt='Serverless'/> [Serverless](https://github.com/serverless/serverless) – Serverless / Task Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6113/7exmJEg4_400x400.png' alt='Svelte'/> [Svelte](https://svelte.technology/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7260/default_e971350de38efca4ebed24e8682c82703629a4e3.png' alt='CockroachDB'/> [CockroachDB](https://www.cockroachlabs.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/7304/23360933.png' alt='Nuxt.js'/> [Nuxt.js](https://nuxtjs.org) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/7609/24939410.png' alt='Fastify'/> [Fastify](http://www.fastify.io/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1726/5055057.png' alt='Koa'/> [Koa](http://koajs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg' alt='NestJS'/> [NestJS](nestjs.com) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/7304/23360933.png' alt='Nuxt.js'/> [Nuxt.js](https://nuxtjs.org) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/6113/7exmJEg4_400x400.png' alt='Svelte'/> [Svelte](https://svelte.technology/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png' alt='gRPC'/> [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
+- <img width='25' height='25' src='https://img.stackshare.io/service/7260/default_e971350de38efca4ebed24e8682c82703629a4e3.png' alt='CockroachDB'/> [CockroachDB](https://www.cockroachlabs.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11394/appsync.png' alt='Serverless AppSync'/> [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/12323/Z_q3YLKR_400x400.jpg' alt='Supabase'/> [Supabase](https://supabase.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/9556/68747470733a2f2f696d6775722e636f6d2f5376366a3042362e706e67.png' alt='graphql-yoga'/> [graphql-yoga](https://github.com/prisma/graphql-yoga) – GraphQL Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/11394/appsync.png' alt='Serverless AppSync'/> [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/12323/Z_q3YLKR_400x400.jpg' alt='Supabase'/> [Supabase](https://supabase.com/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/4851/default_1c86e0d45d685cb73aa9a39a658159f6199de49d.png' alt='Azure Functions'/> [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) – Serverless / Task Processing
+- <img width='25' height='25' src='https://img.stackshare.io/service/5095/serverless-logo.png' alt='Serverless'/> [Serverless](https://github.com/serverless/serverless) – Serverless / Task Processing
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -100,7 +100,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [todaypp/example-prisma](https://github.com/todaypp/example-prisma)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|108<br/>Tools used|01/23/24 <br/>Report generated|
+|108<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
