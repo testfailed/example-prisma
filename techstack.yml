@@ -2,7 +2,7 @@ repo_name: todaypp/example-prisma
 report_id: f4a8f6300bbcfba02476ba0e989fb6a5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T13:15:52+00:00'
+timestamp: '2024-02-29T19:34:33+00:00'
 requested_by: renovate[bot]
 provider: github
 branch: latest
@@ -124,7 +124,7 @@ tools:
   last_updated_by: Nikolas
   last_updated_on: 2020-11-16 13:55:10.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.5.6
   open_source: true
@@ -442,7 +442,7 @@ tools:
   last_updated_by: Divyendu Singh
   last_updated_on: 2020-11-17 11:03:54.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.0.3
   license: MIT
@@ -456,7 +456,7 @@ tools:
   last_updated_by: renovate[bot]
   last_updated_on: 2023-08-29 13:44:32.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.3
   license: MIT
